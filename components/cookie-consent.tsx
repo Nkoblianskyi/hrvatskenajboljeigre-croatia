@@ -49,9 +49,6 @@ export function CookieConsent() {
           <div className="container mx-auto max-w-6xl px-4 py-4 md:py-5">
             <div className="flex flex-col md:flex-row items-start md:items-center gap-4">
               <div className="flex items-start gap-3 flex-1">
-                <div className="bg-gold-500/10 rounded-lg p-2 border border-gold-500/20">
-                  <Cookie className="h-5 w-5 text-gold-500" />
-                </div>
                 <div>
                   <h3 className="text-sm font-bold text-white mb-1">Kolačići i Privatnost</h3>
                   <p className="text-xs text-gray-400">
